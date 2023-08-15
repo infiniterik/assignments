@@ -45,5 +45,5 @@ for a in assignments:
         assignment = asn.read()
     ask = chat(chat_prompt2.format_prompt(assignment=assignment).to_messages())
     result = chat(chat_prompt.format_prompt(assignment=assignment, ask=ask).to_messages())
-    with open(f"docs2/{a}", 'w') as out:
+    with open(f"docs2/{a[:4]}.md", 'w') as out:
         out.write("# Ask\n" + ask.content + "\n\n# Answer\n\n" + result.content)
