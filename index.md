@@ -62,3 +62,5 @@ Rewrite the essay above with the formal voice of an exchange student from {city}
 # [Introduction to Game Theory](game_theory.md)
 
 When ChatGPT first came out, I tried generating a chapter for introduction to Game Theory to see what it could do. I took half of a graduate game theory class in 2010 and I have participated in conversations with friends and family who are game theorists. As such, I have a passing understanding of the core concepts, but I am not an expert by any means.
+
+# [Generating syllabus verbage](https://chat.openai.com/share/7b1966cf-0c20-4fca-9473-7643411395a6)
