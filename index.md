@@ -15,6 +15,7 @@ For this set, I simply handed the assignement text to ChatGPT. In some cases it 
 * [Allison](example/allison.md)
 * [Bunde](example/bunde.md)
 * [Heidt](example/heidt.md)
+* [Kampwirth](example/Kampwirth.md)
 
 # Good Student
 For this set, I prefaced the assignment text with the following prompt:
@@ -25,11 +26,11 @@ You are a good student who does all their homework to the best of their ability.
 
 Markdown is a simple text-based annotation that adds formatting to text. What you see below is the unmodified response from ChatGPT, formatting included.
 
-* [Adelsberger](example/adelsberger.md)
-* [Allison](example/allison.md)
-* [Bunde](example/bunde.md)
-* [Heidt](example/heidt.md)
-* [Kamperwirth](example/Kamperwirth.md)
+* [Adelsberger](answer/adelsberger.md)
+* [Allison](answer/allison.md)
+* [Bunde](answer/bunde.md)
+* [Heidt](answer/heidt.md)
+* [Kampwirth](answer/Kampwirth.md)
 
 # Ask and Good Student
 For this set, I prefaced the assignment text with the following prompt:
@@ -44,7 +45,7 @@ I took the returned summary and added it to the assignment prompt.What you see b
 * [Allison](ask/allison.md)
 * [Bunde](ask/bunde.md)
 * [Heidt](ask/heidt.md)
-* [Kamperwirth](ask/Kamperwirth.md)
+* [Kampwirth](ask/Kampwirth.md)
 
 # Step by step prompting:
 This example uses ChatGPT-4 which requires a paid subscription ($20 a month). The same process may work almost as well on the free version of ChatGPT.
@@ -64,3 +65,5 @@ Rewrite the essay above with the formal voice of an exchange student from {city}
 When ChatGPT first came out, I tried generating a chapter for introduction to Game Theory to see what it could do. I took half of a graduate game theory class in 2010 and I have participated in conversations with friends and family who are game theorists. As such, I have a passing understanding of the core concepts, but I am not an expert by any means.
 
 # [Generating syllabus verbage](https://chat.openai.com/share/7b1966cf-0c20-4fca-9473-7643411395a6)
+
+# [EMNLP Policy on Generative AI](https://2023.aclweb.org/blog/ACL-2023-policy/)
