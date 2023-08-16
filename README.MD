@@ -48,6 +48,13 @@ I took the returned summary and added it to the assignment prompt.What you see b
 
 # Step by step prompting:
 This example uses ChatGPT-4 which requires a paid subscription ($20 a month). The same process may work almost as well on the free version of ChatGPT.
+
+For the dialect versions, I added the following prompt after generating the essay:
+
+```
+Rewrite the essay above with the formal voice of an exchange student from {city} who expresses his ideas clearly but makes grammatical choices and errors consistent with {dialect} English. Remember this is a submission for homework.
+```
+
 * [Adelsberger](https://chat.openai.com/share/4b463f65-5fbf-4fae-8345-b18a72e1b592)
 * [Adelsberger - Bengali English](prompts/bengali_english.md)
 * [Adelsberger - Russian English](prompts/russian_english.md)
